@@ -1,0 +1,456 @@
+{
+    "videoSrc": "brol-video.mp4",
+    "shortTitle": "n8n-automation",
+    "totalDurationMs": 44000,
+    "segments": [
+        {
+            "id": 1,
+            "name": "intro",
+            "startMs": 0,
+            "endMs": 6000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/ai-robot.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 0,
+                    "endMs": 600,
+                    "text": "Artık",
+                    "highlight": false
+                },
+                {
+                    "startMs": 600,
+                    "endMs": 1000,
+                    "text": "sesli",
+                    "highlight": false
+                },
+                {
+                    "startMs": 1000,
+                    "endMs": 1800,
+                    "text": "yapay zeka",
+                    "highlight": true
+                },
+                {
+                    "startMs": 1800,
+                    "endMs": 2400,
+                    "text": "yapmak için",
+                    "highlight": false
+                },
+                {
+                    "startMs": 2400,
+                    "endMs": 3200,
+                    "text": "saatlerini",
+                    "highlight": false
+                },
+                {
+                    "startMs": 3200,
+                    "endMs": 4000,
+                    "text": "harcamana",
+                    "highlight": false
+                },
+                {
+                    "startMs": 4000,
+                    "endMs": 4600,
+                    "text": "gerek yok",
+                    "highlight": true
+                },
+                {
+                    "startMs": 4600,
+                    "endMs": 5200,
+                    "text": "çünkü bu",
+                    "highlight": false
+                },
+                {
+                    "startMs": 5200,
+                    "endMs": 6000,
+                    "text": "otomasyon",
+                    "highlight": true
+                }
+            ],
+            "sfx": [
+                {
+                    "triggerMs": 1000,
+                    "file": "pop.mp3",
+                    "volume": 0.6
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "otomasyon-tanitim",
+            "startMs": 6000,
+            "endMs": 14000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/phone-call.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 6000,
+                    "endMs": 6800,
+                    "text": "senin için...",
+                    "highlight": false
+                },
+                {
+                    "startMs": 6800,
+                    "endMs": 7600,
+                    "text": "Otomasyon",
+                    "highlight": true
+                },
+                {
+                    "startMs": 7600,
+                    "endMs": 8200,
+                    "text": "kendisi",
+                    "highlight": false
+                },
+                {
+                    "startMs": 8200,
+                    "endMs": 9000,
+                    "text": "gelen aramaların",
+                    "highlight": false
+                },
+                {
+                    "startMs": 9000,
+                    "endMs": 9600,
+                    "text": "hepsini",
+                    "highlight": false
+                },
+                {
+                    "startMs": 9600,
+                    "endMs": 10400,
+                    "text": "kategorize edip",
+                    "highlight": false
+                },
+                {
+                    "startMs": 10400,
+                    "endMs": 11200,
+                    "text": "sonrasında",
+                    "highlight": false
+                },
+                {
+                    "startMs": 11200,
+                    "endMs": 12200,
+                    "text": "cevaplandırabiliyor",
+                    "highlight": true
+                },
+                {
+                    "startMs": 12200,
+                    "endMs": 13000,
+                    "text": "Yani aslında",
+                    "highlight": false
+                },
+                {
+                    "startMs": 13000,
+                    "endMs": 14000,
+                    "text": "hazır bir sistem",
+                    "highlight": true
+                }
+            ],
+            "sfx": [
+                {
+                    "triggerMs": 6800,
+                    "file": "whoosh.mp3",
+                    "volume": 0.4
+                },
+                {
+                    "triggerMs": 12200,
+                    "file": "pop.mp3",
+                    "volume": 0.6
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "ucretsiz-vurgusu",
+            "startMs": 14000,
+            "endMs": 21000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/money-saving.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 14000,
+                    "endMs": 14800,
+                    "text": "İşin en iyi",
+                    "highlight": false
+                },
+                {
+                    "startMs": 14800,
+                    "endMs": 15600,
+                    "text": "yanı ise",
+                    "highlight": false
+                },
+                {
+                    "startMs": 15600,
+                    "endMs": 16600,
+                    "text": "tamamen ÜCRETSİZ",
+                    "highlight": true
+                },
+                {
+                    "startMs": 16600,
+                    "endMs": 17400,
+                    "text": "ve şirketler",
+                    "highlight": false
+                },
+                {
+                    "startMs": 17400,
+                    "endMs": 18200,
+                    "text": "bu tarz",
+                    "highlight": false
+                },
+                {
+                    "startMs": 18200,
+                    "endMs": 19000,
+                    "text": "sistemler için",
+                    "highlight": false
+                },
+                {
+                    "startMs": 19000,
+                    "endMs": 20000,
+                    "text": "aylık yüzlerce",
+                    "highlight": true
+                },
+                {
+                    "startMs": 20000,
+                    "endMs": 21000,
+                    "text": "para ödüyorlar",
+                    "highlight": true
+                }
+            ],
+            "sfx": [
+                {
+                    "triggerMs": 15600,
+                    "file": "success.mp3",
+                    "volume": 0.5
+                },
+                {
+                    "triggerMs": 20000,
+                    "file": "pop.mp3",
+                    "volume": 0.6
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "sirket-problemi",
+            "startMs": 21000,
+            "endMs": 29000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/office-stress.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 21000,
+                    "endMs": 21800,
+                    "text": "Çünkü birçok",
+                    "highlight": false
+                },
+                {
+                    "startMs": 21800,
+                    "endMs": 22600,
+                    "text": "şirket",
+                    "highlight": false
+                },
+                {
+                    "startMs": 22600,
+                    "endMs": 23400,
+                    "text": "günde defalarca",
+                    "highlight": false
+                },
+                {
+                    "startMs": 23400,
+                    "endMs": 24400,
+                    "text": "kez telefonlarına",
+                    "highlight": false
+                },
+                {
+                    "startMs": 24400,
+                    "endMs": 25400,
+                    "text": "cevap veremiyor",
+                    "highlight": true
+                },
+                {
+                    "startMs": 25400,
+                    "endMs": 26400,
+                    "text": "veya bunun için",
+                    "highlight": false
+                },
+                {
+                    "startMs": 26400,
+                    "endMs": 27600,
+                    "text": "ayrı bir ekip",
+                    "highlight": false
+                },
+                {
+                    "startMs": 27600,
+                    "endMs": 29000,
+                    "text": "tutması gerekiyor",
+                    "highlight": false
+                }
+            ],
+            "sfx": []
+        },
+        {
+            "id": 5,
+            "name": "cozum-sunumu",
+            "startMs": 29000,
+            "endMs": 35000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/success.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 29000,
+                    "endMs": 30000,
+                    "text": "Bu otomasyon",
+                    "highlight": true
+                },
+                {
+                    "startMs": 30000,
+                    "endMs": 31000,
+                    "text": "sayesinde bunu",
+                    "highlight": false
+                },
+                {
+                    "startMs": 31000,
+                    "endMs": 32200,
+                    "text": "tamamen çözmüş",
+                    "highlight": true
+                },
+                {
+                    "startMs": 32200,
+                    "endMs": 33000,
+                    "text": "oluyoruz",
+                    "highlight": false
+                },
+                {
+                    "startMs": 33000,
+                    "endMs": 34200,
+                    "text": "Otomasyonu",
+                    "highlight": false
+                },
+                {
+                    "startMs": 34200,
+                    "endMs": 35000,
+                    "text": "n8n kullanarak",
+                    "highlight": true
+                }
+            ],
+            "sfx": [
+                {
+                    "triggerMs": 29000,
+                    "file": "whoosh.mp3",
+                    "volume": 0.4
+                },
+                {
+                    "triggerMs": 34200,
+                    "file": "pop.mp3",
+                    "volume": 0.6
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "n8n-tanitimi",
+            "startMs": 35000,
+            "endMs": 41000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/workflow.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 35000,
+                    "endMs": 35800,
+                    "text": "yaptım",
+                    "highlight": false
+                },
+                {
+                    "startMs": 35800,
+                    "endMs": 36800,
+                    "text": "Hem detaylı",
+                    "highlight": false
+                },
+                {
+                    "startMs": 36800,
+                    "endMs": 38000,
+                    "text": "bir YouTube",
+                    "highlight": true
+                },
+                {
+                    "startMs": 38000,
+                    "endMs": 38800,
+                    "text": "videosu",
+                    "highlight": false
+                },
+                {
+                    "startMs": 38800,
+                    "endMs": 39800,
+                    "text": "hem de otomasyonu",
+                    "highlight": false
+                },
+                {
+                    "startMs": 39800,
+                    "endMs": 41000,
+                    "text": "almak için",
+                    "highlight": false
+                }
+            ],
+            "sfx": []
+        },
+        {
+            "id": 7,
+            "name": "cta-kapanis",
+            "startMs": 41000,
+            "endMs": 44000,
+            "layout": "split",
+            "broll": {
+                "src": "content/n8n-automation/broll/youtube-cta.mp4",
+                "type": "video"
+            },
+            "subtitles": [
+                {
+                    "startMs": 41000,
+                    "endMs": 42200,
+                    "text": "yorumlara",
+                    "highlight": true
+                },
+                {
+                    "startMs": 42200,
+                    "endMs": 43400,
+                    "text": "'otomasyon'",
+                    "highlight": true
+                },
+                {
+                    "startMs": 43400,
+                    "endMs": 44000,
+                    "text": "yazabilirsin",
+                    "highlight": false
+                }
+            ],
+            "sfx": [
+                {
+                    "triggerMs": 41000,
+                    "file": "success.mp3",
+                    "volume": 0.7
+                }
+            ]
+        }
+    ],
+    "endCard": {
+        "startMs": 41000,
+        "durationMs": 3000,
+        "title": "Yorumlara 'otomasyon' yaz! 👇",
+        "subtitle": "Detaylı YouTube videosu + Otomasyon şablonu"
+    }
+}

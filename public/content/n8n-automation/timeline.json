@@ -1,0 +1,88 @@
+{
+  "videoSrc": "brol-video.mp4",
+  "shortTitle": "n8n-automation",
+  "totalDurationMs": 34360,
+  "segments": [
+    {
+      "id": 1,
+      "name": "hook",
+      "startMs": 0,
+      "endMs": 2900,
+      "videoSrc": "segments/hook.mp4",
+      "layout": "split-40-60",
+      "zoomDurationMs": 700,
+      "broll": {
+        "src": "content/n8n-automation/broll/seg_1_asset.mp4",
+        "type": "video"
+      },
+      "text": "Artık sesli ajan yapmak için saatlerini harcamana gerek yok"
+    },
+    {
+      "id": 2,
+      "name": "segment-1",
+      "startMs": 2900,
+      "endMs": 9260,
+      "videoSrc": "segments/segment_1.mp4",
+      "layout": "split-40-60",
+      "broll": {
+        "src": "content/n8n-automation/broll/seg_2_asset.mp4",
+        "type": "video"
+      },
+      "text": "Çünkü bu otomasyon senin için. Otomasyon kendisi gelen aramaların hepsini kategorize edip sonrasında cevaplandırabiliyor"
+    },
+    {
+      "id": 3,
+      "name": "segment-2",
+      "startMs": 9260,
+      "endMs": 16230,
+      "videoSrc": "segments/segment_2.mp4",
+      "layout": "fullscreen-asset",
+      "broll": {
+        "src": "content/n8n-automation/broll/seg_3_asset.mp4",
+        "type": "video"
+      },
+      "text": "Yani aslında hazır bir sistem. İşin en iyi yanıysa tamamen ücretsiz ve şirketler bu tarz sistemler için aylık yüzlerce para ödüyorlar"
+    },
+    {
+      "id": 4,
+      "name": "segment-3",
+      "startMs": 16230,
+      "endMs": 22620,
+      "videoSrc": "segments/segment_3.mp4",
+      "layout": "split-60-40",
+      "broll": {
+        "src": "content/n8n-automation/broll/seg_4_asset.mp4",
+        "type": "video"
+      },
+      "text": "Çünkü birçok şirket günde defalarca kez telefonlarına cevap veremiyor. Veya bunun için ayrı bir ekip tutması gerekiyor"
+    },
+    {
+      "id": 5,
+      "name": "segment-4",
+      "startMs": 22620,
+      "endMs": 27680,
+      "videoSrc": "segments/segment_4.mp4",
+      "layout": "split-40-60",
+      "broll": {
+        "src": "GEN_AI_FAILED: Video Gen Failed: Internal Error, Please try again later. || Screen recording of N8N workflow automation setup",
+        "type": "video"
+      },
+      "text": "Bu otomasyon ise aslında bunu tamamen çözmüş oluyor. Otomasyonu N8N kullanarak yaptım"
+    },
+    {
+      "id": 6,
+      "name": "cta",
+      "startMs": 27680,
+      "endMs": 34360,
+      "videoSrc": "segments/cta.mp4",
+      "layout": "closeup-cta",
+      "ctaText": "Yorumlara 'otomasyon' yaz! 👇",
+      "ctaSubtext": "YouTube videosu + Otomasyon şablonu",
+      "broll": {
+        "src": "content/n8n-automation/broll/seg_6_asset.mp4",
+        "type": "video"
+      },
+      "text": "Hem detaylı bir YouTube videosu hem de otomasyona ulaşmak istiyorsan yorumlara otomasyon yaz"
+    }
+  ]
+}
