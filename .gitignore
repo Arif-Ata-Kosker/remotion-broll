@@ -18,9 +18,9 @@ tmpclaude-*
 nul
 *.log
 
-# Heavy / generated media
-public/segments/
-public/content/*/broll/
+# Heavy / generated media (uncomment to exclude from repo)
+# public/segments/
+# public/content/*/broll/
 
 # Editor / OS
 .vscode/
